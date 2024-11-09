@@ -1,0 +1,6 @@
+{
+  "token": "YOUR_TELEGRAM_BOT_TOKEN",
+  "chatidpengguna": "YOUR_CHAT_ID",
+  "databasepath": "path",
+  "buatpathfolderbaru": "path"
+}
