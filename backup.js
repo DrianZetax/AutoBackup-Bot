@@ -11,7 +11,7 @@ const defaultChatId = settings.chatidpengguna;
 const dbfolder = settings.databasepath;
 const buatpathfolderbaru = settings.buatpathfolderbaru;
 
-const bot = new TelegramBot(token, { polling: true });
+const bot = new TelegramBot(api, { polling: true });
 
 let autoBackupActive = false;
 
